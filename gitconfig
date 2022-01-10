@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pro.frederic.lange@gmail.com
+	name = Fred Lange
